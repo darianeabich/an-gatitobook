@@ -1,0 +1,21 @@
+nav {
+  background-color: #87878b3d;
+}
+
+.navbar {
+  padding-left: 1rem;
+}
+
+i {
+  padding-right: 0.5rem;
+}
+
+a{
+  padding-right: 1rem;
+}
+
+.a-new{
+  padding: 1rem;
+  text-decoration: none;
+  color: black;
+}
